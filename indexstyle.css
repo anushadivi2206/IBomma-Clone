@@ -1,0 +1,89 @@
+*{
+    background-color: #0f0f0f;
+}
+.box{
+    width: 38rem;
+    text-align: center;
+    height: 19rem;
+    background-color: #151515;
+    margin: auto;
+    margin-top: 11rem;
+    position: relative;
+    border-radius: 0.5rem;
+    border:1px solid #1f1f1f;
+    box-shadow: #050505 0 0 8px 0;
+}
+#img{
+    margin-top: -1rem;
+    margin-left: 45px;
+    background-color: #151515;
+}
+.ver{
+    font-size: 14px;
+    color:#6ac045;
+    margin-left: 35rem;
+    width: 3rem;
+    height: 1.8rem;
+    border-radius: 0.1rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 1rem;
+    text-align: center;
+    line-height: 1.6rem;
+    font-size: small;
+    background-color: #222;
+}
+.words{
+    margin-top: 1.4rem;
+    color: white;
+    margin-left:  1rem;
+    background-color: #151515;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing:0.2rem;
+    font-size: 0.9rem;
+}
+.button{
+    margin-top:  0.5rem;
+    background-color: #6ac045;
+    border:#050505;
+    width: 9.5rem;
+    margin-left: 1rem;
+    font-family: 'Roboto', sans-serif;
+    height: 2.7rem;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 0.4rem;
+    letter-spacing: 0.1rem;
+    color: #fff;
+}
+.button a{
+    margin-top:  0.5rem;
+    background-color: #6ac045;
+    border:#050505;
+    width: 9.5rem;
+    margin-left: 1rem;
+    font-family: 'Roboto', sans-serif;
+    height: 2.7rem;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 0.4rem;
+    letter-spacing: 0.1rem;
+    color: #fff;
+    text-decoration: none;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #58b92e;
+}
+.des{
+    color: rgb(166 165 165);
+    font-size: 0.7rem;
+    letter-spacing: 0.1rem;
+    font-weight: 600;
+    background-color: #151515;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+    line-height: 1rem;
+    font-family: 'Roboto', sans-serif;
+    /* font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; */
+}
